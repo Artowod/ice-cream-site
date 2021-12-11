@@ -1,5 +1,7 @@
 # Site about Ice-Cream - final project of HTML/CSS module. 
 
+## It is hosted here: https://artowod.github.io/ice-cream-site/
+
 ## Main technologies: HTML + SASS  
 
 It was developped using the project preared in figma.
